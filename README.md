@@ -65,7 +65,7 @@ sudo ./superlanplay.x86_64
 
 # Command line Release
 
-If you just want to run this as command line do the same steps in the GUI Release. When you reach the LAST STEPS title do this:
+If you just want to run this as command line do the same steps in the GUI Release. When you reach the LAST STEPS title do this instead:
 
 ```
 cd /home/$USER/SLP/superlanplay_Data/Resources
