@@ -1,4 +1,4 @@
-# SuperLanPlay_Linux
+# SuperLanPlay Linux
 Super Lan Play Linux Client (Tested on Ubuntu 16.04. It should work in others)
 
 Welcome to Super Lan Play client for Linux.
