@@ -23,7 +23,7 @@ Then you will see a popup like this. Use the default option to allow you to extr
 
 ![Default Open](DownloadingFromBrowser.png?raw=true "Default Open")
 
-Then click Open and wait for Download finished.
+Then click OK and wait for Download finished.
 
 Then a new window will be shown.
 
