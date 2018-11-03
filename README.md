@@ -33,16 +33,19 @@ If you see only one file named superlanplay.tar then double click on it to see w
 
 ![Default Extraction](ExtractRight.png?raw=true "Default Extraction")
 
-When you see those 3 items it means you're ready to go. Click on the top left button, Extract. And now create a folder to extract the files. You can create it doing click on the top right folder button. I created one named SLP. (SuperLanPlay) in my own user directory which is the default folder shown.
+When you see those 3 items it means you're ready to go. Click on the top left button, Extract. 
 
 ![Create Folder Extraction](CreateFolderForExtraction.png?raw=true "Create Folder Extraction")
+
+And now create a folder to extract the files. You can create it doing click on the top right folder button. I created one named SLP. (SuperLanPlay) in my own user directory which is the default folder shown.
+
+![Extraction](Extracted.png?raw=true "Extraction")
+
 
 When you're ready to go, click on the bottom right button to extract the files in the SLP folder you've created.
 
 LAST STEPS
 ==========
-
-![Extraction](Extracted.png?raw=true "Extraction")
 
 Once you've extracted open a terminal and run the command:
 
