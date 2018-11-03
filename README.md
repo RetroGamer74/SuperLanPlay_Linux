@@ -74,11 +74,13 @@ sudo  ./lan-play
 
 It will ask you for a server/domain service. This is located in the settings of the Super Lan Play website which is located at:
 http://lanboard.retrogamer.tech
+
 Go to that URL and follow steps to register yourself. If you don't do this you won't get access because the service is firewalled.
 
 # CREDITS
 
 SuperLanPlay concept, web, and apps are developed by Team Retro.
+
 lan-play concept and source code is developed by imspace, which you can locate it here:
 https://github.com/spacemeowx2/switch-lan-play
 
