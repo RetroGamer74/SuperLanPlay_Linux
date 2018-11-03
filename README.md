@@ -18,6 +18,17 @@ When installation finished, you can download Super Lan Play client from this lin
 https://www.dropbox.com/s/beg5ae0q3ny45e1/superlanplay.tar.gz?dl=0
 
 ![Download](Download.png?raw=true "Download")
+
+Then you will see a popup like this. Use the default option to allow you to extract the file once finished. Take care you will have to do double click in the window when you go to extract it, so don't go so fast.
+
+![Default Open](DownloadingFromBrowser.png?raw=true "Default Open")
+
+Then click Open and wait for Download finished.
+
+Then a new window will be shown.
+
+![Default Extraction](ExtractNote.png?raw=true "Default Extraction")
+
 When download finished open a Terminal. When Terminal is open, you will find the superlanplay.tar.gz file located in the Downloads folder. If you're in spanish language it will be 'Descargas'.
 
 So run this command from Terminal:
