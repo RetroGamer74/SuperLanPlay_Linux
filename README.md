@@ -5,6 +5,8 @@ Welcome to Super Lan Play client for Linux.
 
 # GUI Release
 
+![SLP](MainSLP.png?raw=true "SLP")
+
 This program mainly requires graphic capabilities, so in this section will cover installation and run of the graphic version.
 
 First you have to install a couple libraries. Just run this command.
