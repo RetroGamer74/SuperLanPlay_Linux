@@ -29,10 +29,53 @@ Then a new window will be shown.
 
 ![Default Extraction](ExtractNote.png?raw=true "Default Extraction")
 
-When download finished open a Terminal. When Terminal is open, you will find the superlanplay.tar.gz file located in the Downloads folder. If you're in spanish language it will be 'Descargas'.
+If you see only one file named superlanplay.tar then double click on it to see what you see in next image.
 
-So run this command from Terminal:
+![Default Extraction](ExtractRight.png?raw=true "Default Extraction")
+
+When you see those 3 items it means you're ready to go. Click on the top left button, Extract. And now create a folder to extract the files. I created one named SLP. (SuperLanPlay) in my own user directory which is the default folder shown.
+
+![Create Folder Extraction](CreateFolderForExtraction.png?raw=true "Create Folder Extraction")
+
+When you're ready to go, click on the bottom right button to extract the files in the SLP folder you've created.
+
+LAST STEPS
+==========
+
+![Extraction](Extracted.png?raw=true "Extraction")
+
+Once you've extracted open a terminal and run the command:
 
 ```
-cd /home/$USER/Downloads
+cd /home/$USER/SLP
 ```
+![Change Directory](Directory.png?raw=true "Change Directory")
+
+Finally run the program as root using sudo command. This is required because the library needs root permissions. And run the program that fit your needs, for example, if you need 32 bits version run superlanplay.x86 and if you want 64 bits version run superlanplay.x86_64.
+
+``` 
+sudo ./superlanplay.x86_64
+```
+
+![Run](Run.png?raw=true "Run")
+
+
+# Command line Release
+
+If you just want to run this as command line do the same steps in the GUI Release. When you reach the LAST STEPS title do this:
+
+```
+cd /home/$USER/SLP/superlanplay_Data/Resources
+sudo  ./lan-play
+```
+
+It will ask you for a server/domain service. This is located in the settings of the Super Lan Play website which is located at:
+http://lanboard.retrogamer.tech
+Go to that URL and follow steps to register yourself. If you don't do this you won't get access because the service is firewalled.
+
+# CREDITS
+
+SuperLanPlay concept, web, and apps are developed by Team Retro.
+lan-play concept and source code is developed by imspace, which you can locate it here:
+https://github.com/spacemeowx2/switch-lan-play
+
