@@ -17,6 +17,7 @@ When installation finished, you can download Super Lan Play client from this lin
 
 https://www.dropbox.com/s/beg5ae0q3ny45e1/superlanplay.tar.gz?dl=0
 
+![Download](Download.png?raw=true "Download")
 When download finished open a Terminal. When Terminal is open, you will find the superlanplay.tar.gz file located in the Downloads folder. If you're in spanish language it will be 'Descargas'.
 
 So run this command from Terminal:
