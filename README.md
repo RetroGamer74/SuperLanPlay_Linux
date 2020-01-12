@@ -17,7 +17,7 @@ sudo apt install libpcap0.8-dev libuv1-dev
 
 When installation finished, you can download Super Lan Play client from this link:
 
-https://www.dropbox.com/s/beg5ae0q3ny45e1/superlanplay.tar.gz?dl=0
+https://mega.nz/#!Pu5BmQBJ!kJLcn6mSJulZozdi7qxr0lJQui8DWJNQAAgU7uBJcmU
 
 ![Download](Download.png?raw=true "Download")
 
